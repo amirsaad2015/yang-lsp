@@ -1,4 +1,4 @@
-'# yang-lsp
+# yang-lsp
 [![Build Status](https://travis-ci.org/theia-ide/yang-lsp.svg?branch=master)](https://travis-ci.org/theia-ide/yang-lsp)
 [![Build status](https://ci.appveyor.com/api/projects/status/96eo9k5yo0wtpj50/branch/master?svg=true)](https://ci.appveyor.com/project/kittaakos/yang-lsp/branch/master)
 
@@ -39,8 +39,3 @@ The yang-lsp is the base of multiple binaries
 | [yang-eclipse](https://github.com/theia-ide/yang-eclipse) | Eclipse | p2 update site | Eclipse Marketplace | [Jenkins](http://services.typefox.io/open-source/jenkins/job/yang-eclipse/) | GitHub hook / Jenkins pipeline |
 | [yang-vscode](https://github.com/theia-ide/yang-vscode) | VSCode | VSCode extension | VSCode Marketplace | - | `vsce` |
 
-
-
-
-
-HELLLLLLOOOOOOOOOOO
